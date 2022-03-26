@@ -1,21 +1,29 @@
-# bikesharing
-Bike sharing project with Tableau
-# Surfs_Up_Analysis
+# Bikesharing for Des Moines, IA
 
 ## Project Overview
-In the spirit of freedom that one feels when getting on a bicycle, 
-We are looking to bring that feeling to the people of Des Moines, IA. Ridesharing, and specifically, Bikesharing provide a means of transportation for commuting and leisure. This project analyzed the bikesharing market in New York City to determine the feasibility of starting a bikesharing venture in Des Moines, IA. 
+The freedom that one feels when getting on a bicycle is the inspiration for this venture. Sharing that feeling with the people in Des Moines, IA through ridesharing. Specifically, Bikesharing provide a means of transportation for commuting and leisure. This project analyzed the bikesharing market in New York City to determine the feasibility of starting a bikesharing venture in Des Moines, IA. 
 
  
 ## Project Resources
-Tableau was used to analyze, visualize, and present the data which Python was used to clean the original data source.
+Tableau was used to analyze, visualize, and present the data. Python was used to clean the original data source.
 
 
 ## Analysis Results
-The results of the data analysis of the NYC data was captured in several ways.
+The results of the data analysis of the NYC data was captured in several ways. In the Tableau story, there are four dashboards:
 
-![June Summary](https://public.tableau.com/app/profile/bobbi.scheinin/viz/Module14Challenge_16483124108620/AugustPeakHours?publish=yes)
+-- Bikesharing in NYC which summarizes the total rides in August 2019, peak hours of bike rentals, and trip duration by gender
+-- Rides by Day and User highlights the time of day and days of the week with the highest rentals as well as the type of rider
+-- Popular Trip Locations shows the pick-up and drop-off locations in NYC
+-- Recommendations for Des Moines
+
+[link to dashboard](https://public.tableau.com/app/profile/bobbi.scheinin/viz/Module14Challenge_16483124108620/BikesharingforDesMoines?publish=yes)
 
 
 ## Summary
-This narrow analysis shows us that temperatures have very little change from the summer to winter seasons on the island of Oahu. However, there is more information needed to make an important investment decision. As a partner, I would want to know the average percipitation between these two months as well as which reporting station provided the weather conditions most condusive to surfing. This could show us that location of our new surf shop should be on the east side of the island versus the west. I would need more information than just summary temperature statistics to make an informed decision about this investment.
+The analysis of the bikesharing business in New York City is helpful in that it shows the results from a busy summer month which would have high ridership of bikes, tourists and commuters alike. Conclusions from this analysis show that male subscribers to the bikesharing app have the highest ridership and that the most popular trip locations are near large transportation hubs in NYC. Given this information, the following recommendations are made for Des Moines:
+
+-- Consider location of bikesharing stations near the major transit hub
+-- The extensive bike paths throughout Des Moines make bike rentals attractive near these trails
+-- Downtown Des Moines has plenty of attractions that can be accessed by bicyclists.
+
+
